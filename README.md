@@ -2,7 +2,8 @@
 
 Universal Downloader is a Python application built with yt-dlp and customtkinter that allows users to download videos and audio from various sources. The app provides an intuitive GUI where users can paste URLs, select download formats, and track download progress. It also includes automatic codec conversion to H.264, if needed, to improve video compatibility.
 
-![DA54E5D3-7128-48FB-91CA-B26C76EAA076](https://github.com/user-attachments/assets/4d4a7325-aad5-4599-9e5c-f54d9d5b52e7)
+![DA54E5D3-7128-48FB-91CA-B26C76EAA076](https://github.com/user-attachments/assets/4c652a28-17d6-4599-b297-8518a1b81798)
+
 
 ## Features
 
